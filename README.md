@@ -1,2 +1,3 @@
 # Hammerstone-ARG
-Arg
+ARG
+Solve it if you can
